@@ -40,6 +40,13 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 5. `Could Not Connect To Remote Server`. This is an error which can be fixed easily. If you make a ticket to fix this issue, make sure to always send logs! It helps us fix your errors. To fix this error, you'll need to re-download Novaline, and make sre you have all libraries installed. Then your error should be fixed.
 
 
+
+#Unnamed Problems
+
+1.Novaline not working. This can be due to many things, like your `Real Time Protection` is on, or the `Window Libraries` aren't installed. But a most common fix for this is making sure **Roblox isn't open** before you open **Novaline**, always open **Novaline** before **Roblox** .
+
+
+
 ## Unknown / Discovered Problems:
 1. `Novaline Closing and Opening Discord`: This error has been dealt with but in many other ways. The most common way to fix this error is by restarting your computer and reinstalling Novaline. This usually works but open a ticket for further aid.
 
@@ -57,7 +64,7 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 
 
-Last Updated: 11:52 AM | 22/05/2022 | GMT +1                                                                                                        
+Last Updated: 17:34 PM | 22/05/2022 | GMT +1                                                                                                        
 Document Created By blinx with 🖤😽
 
 
