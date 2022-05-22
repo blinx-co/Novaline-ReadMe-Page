@@ -50,8 +50,5 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
 
-
-
-
 Last Updated: 11:09 AM | 22/05/2022 | GMT +1                                                                                                        
 Document Created By blinx with 🖤😽
