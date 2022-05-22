@@ -62,7 +62,7 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 
 Last Updated: 17:34 PM | 22/05/2022 | GMT +1                                                                                                        
-Document Created By blinx with 🖤😽
+Document Created By blinx with 🖤😽 female btw
 
 
 View The Changelogs [here](https://github.com/blinx-co/Novaline-ReadMe-Page/blob/main/changelogs.md)
