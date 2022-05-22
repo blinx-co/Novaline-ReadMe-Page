@@ -59,3 +59,4 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 Last Updated: 11:52 AM | 22/05/2022 | GMT +1                                                                                                        
 Document Created By blinx with 🖤😽
+[Changelogs](https://github.com/blinx-co/Novaline-ReadMe-Page/blob/main/changelogs.md)
