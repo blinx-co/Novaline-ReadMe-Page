@@ -41,7 +41,7 @@ If you get any errors not on this list please join the discord: [Novaline's Disc
 
 
 
-#Unnamed Problems
+##Unnamed Problems
 
 1.Novaline not working. This can be due to many things, like your `Real Time Protection` is on, or the `Window Libraries` aren't installed. But a most common fix for this is making sure **Roblox isn't open** before you open **Novaline**, always open **Novaline** before **Roblox** .
 
