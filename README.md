@@ -16,6 +16,15 @@ You can download Novaline here: [Download](https://wearedevs.net/d/Novaline)
 
 If you get any errors not on this list please join the discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
+
+## Libraries:
+To Properly Use Novaline, We'll Need To Install Some Window Libraries So Novaline Runs Normally:
+The First Library Can Be Downloaded [Here](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+The Second Library Can Be Downloaded [Here](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+You **May** Need To **Restart** Your Computer To Fully Initialize The Libraries Into Your System. This Is Not Required But Recommended.
+
+
 ## Common Problems:
 1. `Web Client Error`. This error is most common when the user (you) have not taken the correct steps to use Novaline. e.g (Real Time Protection is off, Correct Window libraries are installed). To fix this error, you'll need to restart Novaline or download the required libraries. you can download them [here](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Or a very simple way to fix it, close roblox then open Novaline.
 
@@ -61,7 +70,7 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 
 
-Last Updated: 17:34 PM | 22/05/2022 | GMT +1                                                                                                        
+Last Updated: 19:08 PM | 23/05/2022 | GMT +1                                                                                                        
 Document Created By blinx with 🖤😽 female btw
 
 
