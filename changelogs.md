@@ -2,9 +2,9 @@
 
 Added another issue discorvered, which has a solution
 
-Chnaged site format theme.
+Changed site format theme.
 
 ##
 
-Updated at: 13:20 PM | 22/05/2022 | GMT +1
+Updated at: 22:13 PM | 23/05/2022 | GMT +1
 Document Created By blinx with 🖤😽
