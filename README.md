@@ -7,7 +7,7 @@ It is really helpful if your navite language isn't English, please use a transla
 ## General Info:
 Do **NOT** download any version of Novaline **not** from [wearedevs.net](https://wearedevs.net). The only and **official** download is on WeAreDevs.net.
 
-
+`Quick Fix`: Novaline Won't Inject, Make Sure ROBLOX Is Closed Before OPENING Novaline. Always Open Novaline Before ROBLOX
 Any Issues Regarding `Virus Detection` please read this please: [Virus Detection](https://wearedevs.net/forum/t/572)
 
 
