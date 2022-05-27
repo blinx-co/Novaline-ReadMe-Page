@@ -72,7 +72,7 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 
 
-Last Updated: 19:08 PM | 23/05/2022 | GMT +1                                                                                                        
+Last Updated: 15:40 PM | 27/05/2022 | GMT +1                                                                                                        
 Document Created By blinx with 🖤😽 female btw
 
 
