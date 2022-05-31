@@ -7,28 +7,20 @@ It is really helpful if your navite language isn't English, please use a transla
 ## General Info:
 Do **NOT** download any version of Novaline **not** from [wearedevs.net](https://wearedevs.net). The only and **official** download is on WeAreDevs.net.
 
-`Quick Fix`: Novaline Won't Inject, Make Sure ROBLOX Is Closed Before OPENING Novaline. Always Open Novaline Before ROBLOX.
-
-
+`Quick Fix`: Novaline Won't Inject, Make Sure ROBLOX Is Closed Before OPENING Novaline. Always Open Novaline Before ROBLOX
 Any Issues Regarding `Virus Detection` please read this please: [Virus Detection](https://wearedevs.net/forum/t/572)
 
 
 We really advise you read this *before* making a **ticket**, it saves us and you alot of time.
 You can download Novaline here: [Download](https://wearedevs.net/d/Novaline)
 
+If you find this document difficult to read, please consult to the website for this: [Novaline Support](https://blinx-co.github.io/Novaline-ReadMe-Page/)
+
 If you get any errors not on this list please join the discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
-
-## Libraries:
-To Properly Use Novaline, We'll Need To Install Some Window Libraries So Novaline Runs Normally:
-The First Library Can Be Downloaded [Here](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-The Second Library Can Be Downloaded [Here](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
-
-You **May** Need To **Restart** Your Computer To Fully Initialize The Libraries Into Your System. This Is Not Required But Recommended.
-
-
 ## Common Problems:
-1. `Web Client Error`. This error is most common when the user (you) have not taken the correct steps to use Novaline. e.g (Real Time Protection is off, Correct Window libraries are installed). To fix this error, you'll need to restart Novaline or download the required libraries. you can download them [here](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Or a very simple way to fix it, close roblox then open Novaline.
+1. `Web Client Error`. This error is most common when the user (you) have not taken the correct steps to use Novaline. e.g (Real Time Protection is off, Correct Window libraries are installed). To fix this error, you'll need to restart Novaline or download the required libraries. you can download them [here](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework). Or a very simple way to fix it, close roblox then open Novaline. ![image](https://user-images.githubusercontent.com/103583498/170551597-a0db8f17-fd54-4a80-b36a-4d37fd062ec6.png)
+
 
 
 
@@ -50,9 +42,12 @@ You **May** Need To **Restart** Your Computer To Fully Initialize The Libraries 
 
 5. `Could Not Connect To Remote Server`. This is an error which can be fixed easily. If you make a ticket to fix this issue, make sure to always send logs! It helps us fix your errors. To fix this error, you'll need to re-download Novaline, and make sre you have all libraries installed. Then your error should be fixed.
 
-## Unnamed Problems
 
-1. Novaline not working. This can be due to many things, like your `Real Time Protection` is on, or the `Window Libraries` aren't installed. But a most common fix for this is making sure **Roblox isn't open** before you open **Novaline**, always open **Novaline** before **Roblox** .
+
+#Unnamed Problems
+
+1.Novaline not working. This can be due to many things, like your `Real Time Protection` is on, or the `Window Libraries` aren't installed. But a most common fix for this is making sure **Roblox isn't open** before you open **Novaline**, always open **Novaline** before **Roblox** .
+
 
 
 ## Unknown / Discovered Problems:
@@ -69,11 +64,12 @@ You **May** Need To **Restart** Your Computer To Fully Initialize The Libraries 
 Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/semnXTdss2)
 
 
+4. `Novaline encountering an exception`: ![example](https://user-images.githubusercontent.com/103583498/171124913-d8b29763-3d14-46ac-abb2-88be3f7ac0cc.png)
+to fix this you need to install .net libraries.
 
 
 
-Last Updated: 15:40 PM | 27/05/2022 | GMT +1                                                                                                        
-Document Created By blinx with 🖤😽 female btw
+##
 
-
-View The Changelogs [here](https://github.com/blinx-co/Novaline-ReadMe-Page/blob/main/changelogs.md)
+Last Updated: 09:11 PM | 31/05/2022 | GMT +1                                                                                                        
+Document Created By blinx with 🖤😽
