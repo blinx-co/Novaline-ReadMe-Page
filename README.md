@@ -63,7 +63,7 @@ Remember To Join The Discord: [Novaline's Discord](https://discord.com/invite/se
 
 
 4. `Novaline encountering an exception`:
-to fix this you need to install .net libraries.
+This Issue Relates To Any Unhandled Exception In Novaline So If It Isn't Caught Or Anything Then Its Handled By The Exception Handler.
 ![example](https://user-images.githubusercontent.com/103583498/171124913-d8b29763-3d14-46ac-abb2-88be3f7ac0cc.png)
 
 
